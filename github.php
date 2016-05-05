@@ -42,8 +42,6 @@ function _is_valid_email ($email = "")
 function done($usersAdded, $createdDate, $page){
     global $usersLanguage;
 
-    saveLastPageDate($page, $createdDate);
-
     echo "USERS ADDED: " . $usersAdded . "\n";
     echo "IN: " . $usersLanguage . "\n";
     echo "LAST DATE PARSED: " . $createdDate . "\n";

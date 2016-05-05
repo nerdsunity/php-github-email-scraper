@@ -21,6 +21,11 @@ The script is intentionally broken. By editing and running this script you are b
 ->;This\$isA\$Bug;<-
 ```
 
+#### Master your Github skills:
+##### 50% OFF Udemy Coupon Code.
+
+Github introduction to version control and remote files. Apply the Coupon on Udemy: http://bit.ly/udemy-coupon-github.
+
 #### Learn PHP 7:
 ##### 50% OFF Udemy Coupon Code.
 
